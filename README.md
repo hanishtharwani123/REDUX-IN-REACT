@@ -1,4 +1,4 @@
-# React Redux Dem
+# React Redux Demo
 
 This project demonstrates the integration of Redux with a React application. Redux is a predictable state container for JavaScript applications, commonly used with React to manage the application state in a scalable and maintainable way.
 
